@@ -11,9 +11,10 @@ The app addressed the need for users to securely manage and monitor their invent
 
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
-Key Screens:
+The Key Screens were:
 
 Login/Signup screen: For user authentication.
+
 Main Inventory screen: To display, add, update, or delete items.
 The UI was designed to be straightforward and intuitive, keeping the principle of least surprise in mind. Actions were kept simple with clearly labeled buttons. The success of the design hinges on its simplicity and directness, making the user's journey through the app smooth and logical.
 
