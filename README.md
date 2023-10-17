@@ -23,7 +23,9 @@ The UI was designed to be straightforward and intuitive, keeping the principle o
 The coding process was approached in a modular and iterative manner. Each functionality (authentication, CRUD operations, SMS notifications) was developed in isolation before integrating them. Techniques used included:
 
 Modularization: Breaking down tasks into smaller, more manageable chunks.
+
 Iterative Development: Building and testing each module one at a time.
+
 These strategies are universally applicable and can be used in future projects to ensure code clarity, ease of debugging, and systematic progression.
 
 ## How did you test to ensure your code was functional? Why is this process important and what did it reveal?
@@ -31,7 +33,9 @@ These strategies are universally applicable and can be used in future projects t
 Testing was conducted using the Android Emulator in Android Studio. Each module was tested after its development to ensure functionality. The importance of this process is manifold:
 
 Identify and rectify bugs early in the development process.
+
 Ensure the app behaves as expected across different scenarios.
+
 The testing revealed the app's behavior under various conditions and ensured that edge cases were handled appropriately.
 
 ## Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
